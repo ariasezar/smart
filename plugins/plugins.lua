@@ -66,7 +66,7 @@ local function list_plugins(only_enabled, msg)
      -- text = text..v..'  '..status..'\n'
     end
   end
-  text = "\n_🔃All Plugins Reloaded_\n\n"..nact.." *✔️Plugins Enabled*\n"..nsum.." *📂Plugins Installed*\n\n@titantims"
+  text = "\n_🔃All Plugins Reloaded_\n\n"..nact.." *✔️Plugins Enabled*\n"..nsum.." *📂Plugins Installed*\n\n@sezarinfo"
   tdcli.sendMessage(msg.to.id, msg.id_, 1, text, 1, 'md')
 end
 
@@ -205,7 +205,7 @@ end
     return reload_plugins(true, msg)
   end
   end
-  if matches[1]:lower() == 'بارگزاری مجدد' and is_sudo(msg) then --after changed to moderator mode, set only sudo
+  if matches[1]:lower() == 'بارگذاری مجدد' and is_sudo(msg) then --after changed to moderator mode, set only sudo
     return reload_plugins(true, msg)
   end
 end
@@ -230,7 +230,7 @@ return {
     "^(پلاگ) (+) ([%w_%.%-]+) (chat)",
     "^(پلاگ) (-) ([%w_%.%-]+) (chat)",
     "^(پلاگ) (*)$",
-    "^(بارگزاری مجدد)$"
+    "^(بارگذاری مجدد)$"
     },
   run = run,
   moderated = true, -- set to moderator mode
