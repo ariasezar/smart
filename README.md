@@ -72,18 +72,16 @@ screen ./auto.sh
 
 اموزش های بیش تر در کانال
 
-# [SsS_ARIA_SsS](https://telegram.me/SsS_ARIA_SsS)
+# [پشتیبـانـی](https://telegram.me/SsS_ARIA_SsS)
 
 
 ###  Telegram channel:
 
-# [titanteam](https://telegram.me/ezarinfo)
+# [ڪانـال مـا](https://telegram.me/ezarinfo)
 
 ### thanks to   
 
-# [beyondteam](https://telegram.me/BeyondTeam)
 
-# [luaerror](https://telegram.me/luaerror)
 
 * * *
 》*Please send us your stars☆ at the top of this page*
