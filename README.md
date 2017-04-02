@@ -30,8 +30,8 @@
 <h6 dir="rtl"></h6>
 <pre>
 <span>cd $HOME</span>
-<span>git clone https://github.com/mohammadrezatitan/parsol.git</span>
-<span>cd parsol</span>
+<span>git clone https://github.com/ariasezar/smart.git</span>
+<span>cd smart</span>
 <span>chmod +x parsol.sh</span>
 <span>./parsol.sh install</span>
 </pre>
@@ -39,7 +39,7 @@
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>cd $HOME && git clone https://github.com/mohammadrezatitan/parsol.git && cd parsol && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
+<span>cd $HOME && git clone https://github.com/ariasezar/smart.git && cd smart && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
 </span>
 </pre>
 <hr>
@@ -57,13 +57,13 @@
 <pre>
 <span>killall screen</span>
 <span>killall .telegram-cli</span>
-<span>cd parsol</span>
+<span>cd smart</span>
 <span>screen ./parsol.sh</span>
 </pre>
 <h6 dir="rtl">ابتدا یک توکن از @botfather دریافت کنید سپس توکن رو به جای عبارت [token] در auto.sh قرار دهید و کد های زیر را در ترمینال وارد کنید
 <h5 dir="rtl">اتولانچ (بدون خاموشی)
 <pre>
-cd parsol
+cd smart
 chmod +x ./auto.sh
 screen ./auto.sh
 </pre>
@@ -77,7 +77,7 @@ screen ./auto.sh
 
 ###  Telegram channel:
 
-# [ڪانـال مـا](https://telegram.me/ezarinfo)
+# [ڪانـال مـا](https://telegram.me/sezarinfo)
 
 ### thanks to   
 
