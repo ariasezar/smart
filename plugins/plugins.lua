@@ -205,7 +205,7 @@ end
     return reload_plugins(true, msg)
   end
   end
-  if matches[1]:lower() == 'بارگذاری مجدد' and is_sudo(msg) then --after changed to moderator mode, set only sudo
+  if matches[1]:lower() == 'بارگزاری مجدد' and is_sudo(msg) then --after changed to moderator mode, set only sudo
     return reload_plugins(true, msg)
   end
 end
