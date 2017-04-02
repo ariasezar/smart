@@ -1,4 +1,4 @@
---Start By edit @mohammadrezajijji
+--Start By edit @SsS_aria_SsS
 function run(msg, matches)
 local url , res = http.request('http://api.gpmod.ir/time/')
 if res ~= 200 then return "No connection" end
@@ -10,5 +10,5 @@ return {
   patterns = {"^(ساعت)$"}, 
 run = run 
 }
---End By @mohammadrezajiji
---Channel @titantims
+--End By @SsS_aria_SsS
+--Channel @sezarinfo
