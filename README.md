@@ -79,7 +79,7 @@ screen ./auto.sh
 
 # [ڪانـال مـا](https://telegram.me/sezarinfo)
 
-### thanks to   
+   
 
 
 
