@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/parsol
-
+cd $HOME/smart
 install() {
 	    cd tg
 		sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
@@ -46,11 +45,11 @@ if [ ! -f ./tg/tgcli ]; then
 
    print_logo
    echo -e "\033[38;5;208m"
-   echo -e "     >>>>                       parsol :D                      "
+   echo -e "     >>>>                       smart :D                      "
    echo -e "     >>>>                                                    "
-   echo -e "     >>>>                       @mohammadrezajiji ;)                                  "
+   echo -e "     >>>>                       @SsS_aria_SsS ;)                                  "
    echo -e "     >>>>                                                   "
-   echo -e "     >>>>                       @titantims                                     "
+   echo -e "     >>>>                       @sezarinfo                                     "
    echo -e "\033[0;00m"
    echo -e "\e[36m"
    logo_play
