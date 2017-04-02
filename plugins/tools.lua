@@ -1158,7 +1158,7 @@ return chat_list(msg)
 	   tdcli.sendMessage(matches[2], 0, 1, "Group has been removed by admin command", 1, 'html')
     return '_Group_ *'..matches[2]..'* _removed_'
 		end
-if matches[1] == 'parsol' then
+if matches[1] == 'smart' then
 return tdcli.sendMessage(msg.to.id, msg.id, 1, _config.info_text, 1, 'html')
     end
 if matches[1] == 'adminlist' and is_admin(msg) then
@@ -1299,7 +1299,7 @@ patterns = {
 "^[!/#](admindem) (.*)$",
 "^(ترک)$",
 "^[!/#](autoleave) (.*)$", 
-"^[!/#](parsol)$",
+"^[!/#](smart)$",
 "^[!/#](creategroup) (.*)$",
 "^[!/#](createsuper) (.*)$",
 "^[!/#](tosuper)$",
