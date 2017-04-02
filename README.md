@@ -1,13 +1,13 @@
 <p 
     <div align="center">
-    <a href="https://telegram.me/ezarinfo">
+    <a href="https://telegram.me/sezarinfo">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
     <a href="https://telegram.me/SsS_ARIA_SsS">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
-<a href="https://telegram.me/ezarinfo"><font size="100">smart.v3</font></a>
+<a href="https://telegram.me/sezarinfo"><font size="100">smart.v3</font></a>
 <h3><p dir="rtl">سورسی کاملا فارسی در زمینه تیجی های جدید :)
 <br>
 <h3 align="right"> <strong></strong>
@@ -72,7 +72,7 @@ screen ./auto.sh
 
 اموزش های بیش تر در کانال
 
-# [mohammadrezajiji](https://telegram.me/SsS_ARIA_SsS)
+# [SsS_ARIA_SsS](https://telegram.me/SsS_ARIA_SsS)
 
 
 ###  Telegram channel:
