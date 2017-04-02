@@ -20,7 +20,7 @@ local function plugin_exists( name )
 end
 
 local function list_all_plugins(only_enabled, msg)
-  local tmp = '\n\n@titantims'
+  local tmp = '\n\n@sezarinfo'
   local text = ''
   local nsum = 0
   for k, v in pairs( plugins_names( )) do
@@ -239,4 +239,4 @@ return {
 
 end
 
---@titantims
+--@sezarinfo
