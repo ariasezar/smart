@@ -1,6 +1,5 @@
--- #titanbot
--- #@titantims
-
+-- #smart
+-- #@sezarinfo
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
 feedparser = (loadfile "./libs/feedparser.lua")()
@@ -78,7 +77,7 @@ function create_config( )
 		"write",
 		"addkick"	
 	},
-    sudo_users = {267785153},
+    sudo_users = {304240834},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
