@@ -363,7 +363,7 @@ _مثال:_
 		
 *___________________________*
 *کانال*: @sezarinfo
-سازنده :@SsS_aria_SsS
+سازنده :اریـا
 ]]
 tdcli.sendMessage(msg.chat_id_, 0, 1, helpfun, 1, 'md')
 end
