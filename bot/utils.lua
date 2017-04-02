@@ -1,4 +1,4 @@
---Begin Utils.lua  @titantims :)
+--Begin Utils.lua  @sezarinfo :)
 function serialize_to_file(data, file, uglify)
   file = io.open(file, 'w+')
   local serialized
