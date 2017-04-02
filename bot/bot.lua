@@ -81,17 +81,17 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》parsol v.2
+    info_text = [[》smart v.3
 
-
-》https://github.com/mohammadrezatitan/parsol
+》https://github.com/ariasezar/smart.git
 
 》Admins :
-》@mohammadrezajiji 《
+》@SsS_aria_SsS 《
 		
-》Special thanks to :
-》@BeyondTeam《
-》@luaerror
+》Our channel :
+》@sezarinfo
+》Our channe2 :
+》@Golbargepaeizi
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
